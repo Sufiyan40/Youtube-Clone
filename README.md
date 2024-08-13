@@ -16,7 +16,7 @@ CSS3: For styling the page, including Flexbox and Grid for layout.
 <h2>Live Demo</h2>
 Check out the live version of the Youtube Clone: https://youtubeclone-sufiyan-01.netlify.app/
 
-Installation
+<h2>Installation</h2>
 To get a local copy up and running, follow these simple step:
 
 ==>Clone the repository:
